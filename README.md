@@ -1,2 +1,1 @@
-# SideProject
-My composition of side project.
+# Elector Monster
