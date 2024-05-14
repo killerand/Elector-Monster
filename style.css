@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #fdd803;
+}
+
+p.copyright {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 16px;
+  color: rgb(128, 9, 9);
+  display: block; /* Ensure the element is displayed */
+  visibility: visible; /* Ensure the element is visible */
+}
+
